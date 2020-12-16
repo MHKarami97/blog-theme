@@ -9,7 +9,7 @@ const date = `${dateObj.getFullYear()}-${padStart(
 )}-${padStart(dateObj.getDate())}`;
 const banner = `/*!
  * Minimal Mistakes Jekyll Theme ${pkg.version} by ${pkg.author}
- * Copyright 2013-${dateObj.getFullYear()} Michael Rose - mademistakes.com | @mmistakes
+ * Copyright 2021-${dateObj.getFullYear()} mhkarami97 - mhkarami97.github.io | @mhkarami97
  * Licensed under ${pkg.license}
  */
 `;

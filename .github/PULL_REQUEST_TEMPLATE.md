@@ -11,7 +11,6 @@
 
 <!-- This is a bug fix. -->
 <!-- This is an enhancement or feature. -->
-<!-- This is a documentation change. -->
 
 ## Summary
 
